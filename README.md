@@ -1,6 +1,6 @@
 # Logo app
 
-![App Screenshot](appScreen.png?raw=true "Screenshot")
+<img src="appScreen.png?raw=true" width="200">
 
 ### How to launch
 
