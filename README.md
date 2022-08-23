@@ -1,0 +1,1 @@
+# news-logo-test-app
